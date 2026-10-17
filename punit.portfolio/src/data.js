@@ -21,7 +21,7 @@ export const about = [
 export const facts = [
     ["Location", "Delhi, India"],
     ["Languages", "Hindi, English"],
-    ["Looking for", "Frontend / React roles"],
+    ["Looking for", "MERN Stack Developer"],
     ["Availability", "Immediate"],
 ];
 
