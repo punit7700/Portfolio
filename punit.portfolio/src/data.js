@@ -14,8 +14,8 @@ export const profile = {
 };
 
 export const about = [
-    "I have completed my BCA and also hold a BBA with HRM specialization, so I am comfortable working with people as well as writing code.",
-    "I mostly work with React, Vite and Tailwind CSS. I have built a portfolio, a shop website and a few small apps to practise, and I am now learning Node.js, Express and MongoDB to grow into a full stack developer.",
+    "I am a BCA graduate and a passionate web developer with hands-on experience in building responsive and user-friendly web applications using modern web technologies.",
+    "I work with HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I have built projects including a job management application, an accommodation booking platform, and e-commerce websites, and I am continuously improving my skills to grow as a full-stack developer.",
 ];
 
 export const facts = [
