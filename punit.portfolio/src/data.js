@@ -54,7 +54,7 @@ export const projects = [
         title: "JobTrack",
         text: "Full-stack job application tracker with authentication, dashboard statistics, and application management.",
         tech: ["React", "Vite", "Node.js", "Express.js", "MongoDB"],
-        live: "https://job-track-nine-gules.vercel.app/login",
+        live: "https://job-track-nine-gules.vercel.app",
         code: "https://github.com/punit7700/JobTrack",
     },
     {
